@@ -10,5 +10,5 @@ max_iter: 450000
 momentum: 0.9
 weight_decay: 0.0005
 snapshot: 10000
-snapshot_prefix: "/home/user012/caffe/models/driving_caffenet/driving_caffenet"
+snapshot_prefix: "/home/user012/caffe/models/driving_caffenet/driving_caffenet_class1000"
 solver_mode: GPU
