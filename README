@@ -1,7 +1,1 @@
-TODO
-create LMDB from entire training dataset
-use downloaded googlenet model pretrained on imagenet
-Finetune googlenet on 10 classes
-	change last layer
-	train using weights from model
-	caffe tutorial on fine tuning for this
+Repository to manage data transfer between personal computer and remote AWS EC2 cluster.
